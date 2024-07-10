@@ -1,0 +1,18 @@
+.main {
+    margin: 100px;
+    border: 1px solid black;
+    width: 80%;
+}
+span{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    margin-left: 40px;
+}
+.main h1{
+    margin-left: 40px;
+}
+.container h4 {
+    margin-right: 40px;
+}
